@@ -22,3 +22,6 @@ mmcv-full : 1.3.9 | mmdet : 2.16.0
   
 ![image](https://user-images.githubusercontent.com/73974211/163532714-84fbe6f6-a35b-4291-b655-1eb94ec4d16b.png)
 
+## Google Drive
+
+https://drive.google.com/file/d/1Dn8UCWKtyVU70h499TTcpsbH93rDDGZU/view?usp=sharing
