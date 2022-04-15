@@ -1,12 +1,12 @@
 # softTeacher
 
-official softTeacher : https://github.com/microsoft/SoftTeacher
+Official softTeacher : https://github.com/microsoft/SoftTeacher
 
-official mmdetection : https://github.com/open-mmlab/mmdetection/tree/master/configs/_base_/models
+Official mmdetection : https://github.com/open-mmlab/mmdetection/tree/master/configs/_base_/models
 
 mmcv-full : 1.3.9 | mmdet : 2.16.0
 
-## inference
+## Inference
   
 1. git clone https://github.com/microsoft/SoftTeacher
   
@@ -18,7 +18,7 @@ mmcv-full : 1.3.9 | mmdet : 2.16.0
   
 5. thirdpary 폴더 생성 후 git clone https://github.com/open-mmlab/mmdetection/tree/master/configs/_base_/models
   
-## differ from official
+## Differ from Official
   
 ![image](https://user-images.githubusercontent.com/73974211/163532714-84fbe6f6-a35b-4291-b655-1eb94ec4d16b.png)
 
