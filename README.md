@@ -6,7 +6,7 @@ official mmdetection : https://github.com/open-mmlab/mmdetection/tree/master/con
 
 mmcv-full : 1.3.9 | mmdet : 2.16.0
 
-<inference>
+## inference
   
 1. git clone https://github.com/microsoft/SoftTeacher
   
@@ -18,7 +18,7 @@ mmcv-full : 1.3.9 | mmdet : 2.16.0
   
 5. thirdpary 폴더 생성 후 git clone https://github.com/open-mmlab/mmdetection/tree/master/configs/_base_/models
   
-<differ from official>
+## differ from official
   
 ![image](https://user-images.githubusercontent.com/73974211/163532714-84fbe6f6-a35b-4291-b655-1eb94ec4d16b.png)
 
