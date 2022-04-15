@@ -19,6 +19,7 @@ mmcv-full : 1.3.9 | mmdet : 2.16.0
 5. thirdpary 폴더 생성 후 git clone https://github.com/open-mmlab/mmdetection/tree/master/configs/_base_/models
 
   
+  
 <differ from official>
 
   
